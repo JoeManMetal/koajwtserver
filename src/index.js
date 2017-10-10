@@ -5,7 +5,7 @@ const cors = require('kcors');
 const app = new Koa();
 const router = new Router();
 
-const serviceAccount = require("./lohasexpo2018-firebase-adminsdk-olif5-b8f2504c39.json");
+const serviceAccount = require("../lohasexpo2018-firebase-adminsdk-olif5-b8f2504c39.json");
 var admin = require("firebase-admin");
 
 admin.initializeApp({

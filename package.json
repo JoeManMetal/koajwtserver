@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^1.0.3",
+    "bcrypt": "^5.0.0",
     "firebase-admin": "^5.2.1",
     "jsonwebtoken": "^8.0.1",
     "kcors": "^2.2.1",
